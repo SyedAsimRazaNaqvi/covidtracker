@@ -23,13 +23,13 @@ export default function SectionPanel() {
     <div className={classes.root}>
       <Grid container spacing={3}>
         <Grid item xs={12} sm={4}>
-          <Paper className={classes.paper}>Grid</Paper>
+          <Paper className={classes.paper} evalation={3}>Grid</Paper>
         </Grid>
         <Grid item xs={12} sm={4}>
-          <Paper className={classes.paper}>Grid</Paper>
+          <Paper className={classes.paper} evalation={3}>Grid</Paper>
         </Grid>
         <Grid item xs={12} sm={4}>
-          <Paper className={classes.paper}>Grid</Paper>
+          <Paper className={classes.paper} evalation={3}>Grid</Paper>
         </Grid>
       </Grid>
     </div>

@@ -86,7 +86,7 @@ export default function AppBarSeacrh() {
               <SearchIcon />
             </div>
             <InputBase
-              placeholder="Search…"
+              placeholder="Enter Country"
               classes={{
                 root: classes.inputRoot,
                 input: classes.inputInput,
