@@ -79,7 +79,7 @@ export default function AppBarSeacrh() {
             <MenuIcon />
           </IconButton> */}
           <Typography className={classes.title} variant="h6" noWrap>
-            Covid19-Tracker by Asim
+            Covid19-Tracker by Asim Raza
           </Typography>
           <div className={classes.search}>
             <div className={classes.searchIcon}>
